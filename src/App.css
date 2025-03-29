@@ -1,0 +1,19 @@
+.user-message {
+  padding: 8px;
+  margin: 5px;
+  border-radius: 5px;
+  max-width: 60%;
+}
+
+.user1 { 
+  background-color: #f1c40f; 
+}
+.user2 {
+   background-color: #2ecc71; 
+  }
+.user3 { 
+  background-color: #3498db; 
+}
+.user4 { 
+  background-color: #9b59b6; 
+}
