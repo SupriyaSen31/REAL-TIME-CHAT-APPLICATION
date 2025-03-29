@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# REAL-TIME CHAT APPLICATION
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: SUPRIYA SEN
+
+INTERN ID: CT6WSET
+
+DOMAIN: FRONT END DEVELOPER
+
+DURATION: 6 WEEKS
+
+MENTOR: NEELA SANTOSH
+
+DESCRIPTION:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +82,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+*OUPUT
+
