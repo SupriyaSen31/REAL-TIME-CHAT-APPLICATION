@@ -59,3 +59,7 @@ Different users have different message colors to improve clarity and readability
 Timestamps for Each Message:
 
 Messages display the exact time they were sent for better tracking.
+
+*OUTPUT
+
+![Image](https://github.com/user-attachments/assets/44283a2f-d65e-4154-ab8c-99700c096c54)
