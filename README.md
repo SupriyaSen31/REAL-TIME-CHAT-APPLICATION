@@ -12,76 +12,55 @@ DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-DESCRIPTION:
+DESCRIPTION: The Real-Time Chat Application is a fully functional, interactive messaging platform that enables users to communicate instantly. Built using React.js for the frontend and Node.js with WebSockets (Socket.io) for real-time communication, this chat application ensures smooth and dynamic message exchange. It includes features such as live user updates, avatars, message timestamps, and automatic scrolling for an engaging user experience.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Technology Stack
+Frontend: React.js (Hooks, useState, useEffect, useRef)
 
-## Available Scripts
+Backend: Node.js, Express.js, Socket.io
 
-In the project directory, you can run:
+Styling: CSS
 
-### `npm start`
+Other Tools: RoboHash API for random avatars
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Key Features
+Real-Time Messaging:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Users can send and receive messages instantly using WebSockets without needing to refresh the page.
 
-### `npm test`
+Messages appear dynamically in the chat window.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+User Identification with Avatars:
 
-### `npm run build`
+Each user gets an auto-generated avatar from RoboHash API, ensuring a personalized chat experience.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Avatars help distinguish different users in the chat.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Live User Status:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Displays a list of currently active users.
 
-### `npm run eject`
+Updates in real-time whenever a user joins or leaves the chat.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Dynamic UI with Custom Styling:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The chat interface includes a dark-themed, modern layout with smooth scrolling and neatly arranged messages.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Messages from the logged-in user appear on the right, while others’ messages appear on the left.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Smooth Auto-Scrolling:
 
-## Learn More
+The chatbox automatically scrolls to the latest message, ensuring seamless conversation flow.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Unique Color Coding for Messages:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Different users have different message colors to improve clarity and readability.
 
-### Code Splitting
+Timestamps for Each Message:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Messages display the exact time they were sent for better tracking.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 *OUPUT
 
+![Image](https://github.com/user-attachments/assets/44121182-388c-4120-aee7-66b0c6cc34db)
